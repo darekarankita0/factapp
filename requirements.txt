@@ -3,7 +3,6 @@ Flask==1.1.2
 gunicorn==20.0.4
 itsdangerous==1.1.0
 json-python-module==0.0.1
-jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
 MarkupSafe==1.1.1
 numpy==1.19.5
 pandas==1.2.1
